@@ -1,0 +1,10 @@
+D:\work\goalachiever\src\1.txt
+D:\work\goalachiever\src\components
+D:\work\goalachiever\src\navigation
+D:\work\goalachiever\src\screens
+D:\work\goalachiever\src\components\AuthForm.js
+D:\work\goalachiever\src\navigation\AppNavigator.js
+D:\work\goalachiever\src\screens\LoginScreen.js
+D:\work\goalachiever\src\screens\ScheduleCreateView.js
+D:\work\goalachiever\src\screens\ScheduleListView.js
+D:\work\goalachiever\src\screens\SignUpScreen.js
